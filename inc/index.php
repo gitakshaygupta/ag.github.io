@@ -1,6 +1,6 @@
 <?php
 
-$dpath = "/d";
+$dpath = "/inc";
 
 // Use PHP to serve files too big for Apache to deliver (>2GB)
 function serveFile($file){
